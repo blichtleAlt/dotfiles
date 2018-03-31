@@ -1,0 +1,12 @@
+# CAEN
+Host caen
+  HostName login.engin.umich.edu
+  User blichtle
+  Compression yes
+
+# UMich Gitlab
+  HostName gitlab.com
+  User blichtle
+  IdentityFile ./.ssh/ssh_rsa
+
+

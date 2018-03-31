@@ -1,0 +1,39 @@
+[user]
+	name = Brendan Lichtler
+	email = blichtle@umich.edu
+	username = blichtle
+
+[core]
+	editor = vim
+	excludesfile = ~/.gitignore
+
+[web]
+	browser = google-chrome
+
+[color]
+	ui = auto
+
+[alias]
+	c = commit
+	b = branch
+	cm = commit -m
+	cl = clone 
+	f = fetch
+	m = merge
+	o = checkout
+	ps = push
+	ra = remote add
+	s = status
+	rh = reset HEAD
+	plo = pull origin 
+	pl = pull
+	pso = push origin
+
+[color]
+	ui = auto
+
+[color "status"]
+	added = green bold
+	changed = yellow bold
+	untracked = red bold
+	
